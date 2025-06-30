@@ -1,0 +1,1 @@
+# Features for XAUUSD ML Model\n# Model precision: 0.5196\n# Total features: 19\n\n0: <CLOSE>\n1: <TICKVOL>\n2: <OPEN>\n3: <HIGH>\n4: <LOW>\n5: BODY_SIZE\n6: UPPER_WICK\n7: LOWER_WICK\n8: CLOSE_POSITION\n9: Close_Ratio_2\n10: Trend_2\n11: Close_Ratio_5\n12: Trend_5\n13: Close_Ratio_55\n14: Trend_55\n15: Close_Ratio_125\n16: Trend_125\n17: Close_Ratio_750\n18: Trend_750\n
