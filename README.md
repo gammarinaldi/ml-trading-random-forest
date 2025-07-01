@@ -18,7 +18,7 @@ This project implements a machine learning approach to analyze and predict XAU/U
 ## 📁 Project Structure
 
 ```
-ml/
+random-forest/
 ├── xauusd.ipynb                 # Main Jupyter notebook for analysis
 ├── mt5_login.py                 # MetaTrader 5 connection utilities
 ├── setup_credentials_template.py # Credentials setup template
